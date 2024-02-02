@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for EV Techheropoc	</title>
-	<atom:link href="https://dev.techheropoc.basf.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dev.techheropoc.basf.com/</link>
+	Comments for IVR Proxy	</title>
+	<atom:link href="https://ivrproxydev.nebraskablue.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ivrproxydev.nebraskablue.com/</link>
 	<description></description>
-	<lastBuildDate>Sat, 27 Jan 2024 22:49:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Feb 2024 23:10:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.3.3</generator>
 </channel>
 </rss>
